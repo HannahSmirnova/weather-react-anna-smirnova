@@ -7,7 +7,7 @@ function App() {
         <Weather />
 
         <footer>
-          Coded by anna Smirnova and is{" "}
+          Coded by Anna Smirnova and is{" "}
           <a
             href="https://github.com/HannahSmirnova/weather-react-anna-smirnova.git"
             rel="Github"
