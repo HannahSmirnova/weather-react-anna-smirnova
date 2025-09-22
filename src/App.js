@@ -6,6 +6,15 @@ function App() {
       <header className="App-header">
         <Weather />
       </header>
+      <footer>
+        Coded by anna Smirnova and is
+        <a
+          href="https://github.com/HannahSmirnova/weather-react-anna-smirnova.git"
+          rel="Github"
+        >
+          open-sourced on GitHub
+        </a>
+      </footer>
     </div>
   );
 }
